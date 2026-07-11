@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/applied-ux-ui_assessment-3_movie-app/'
+  // base: '/applied-ux-ui_assessment-3_movie-app/'
 });

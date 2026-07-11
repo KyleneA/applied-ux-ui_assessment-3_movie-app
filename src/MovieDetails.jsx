@@ -26,7 +26,7 @@ export default function MovieDetails() {
   const movieCast = movie.cast;
 
   return (
-    <Container sx={containerStyle} id={movie.title}>
+    <Container sx={containerStyle}>
       <Grid 
         container 
         spacing={4} 
@@ -45,10 +45,10 @@ export default function MovieDetails() {
         >
           <Stack
             direction="row"
-            spacing={1}
+            spacing={3}
             sx={{
               width: "100%",
-              justifyContent:"space-around",
+              justifyContent:"center",
               alignItems:"flex-end",
             }}
           >
@@ -94,23 +94,42 @@ export default function MovieDetails() {
                   justifyContent: 'space-between'
                 }}
               >
-                <Typography variant="body1" >
-                  <b> Director: </b> {movie.director}
-                </Typography>
+                <Box>
+                  <Typography variant="body1" >
+                    <b> Director: </b>
+                  </Typography>
+                  <Typography variant="body1" >
+                    {movie.director}
+                  </Typography>
+                </Box>
                 
+                <Box>
                 <Typography variant="body1">
-                  <b> Release Year: </b> {movie.year}
+                  <b> Release Year: </b> 
                 </Typography>
+
+                <Typography variant="body1">
+                  {movie.year}
+                </Typography>
+                </Box>
               </Stack>
               
+              <Box>
+              <Typography 
+                variant="body1" 
+              >
+                <b> Cast: </b>
+              </Typography>
+
               <Typography 
                 variant="body1" 
                 sx={{
                   textWrap: 'pretty'
                 }}
               >
-                <b> Cast: </b> {movieCast.map((actor) => (actor + ", "))}
+                {movieCast.map((actor) => (actor + ", "))}
               </Typography>
+              </Box>
             </Stack>
             
             <Stack spacing={1}>
