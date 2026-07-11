@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "timestamp": "2026-07-06T20:30:15Z",
+        "type": "error_404",
+        "user": "alex_g",
+        "desc": "Failed to load movie poster asset; resource not found on CDN."
+    },
+    {
+        "id": "002",
+        "timestamp": "2026-07-06T20:32:41Z",
+        "type": "timeout",
+        "user": "sarah_m_99",
+        "desc": "Database connection timeout while attempting to submit a 5-star rating for 'Inception'."
+    },
+    {
+        "id": "003",
+        "timestamp": "2026-07-06T20:35:02Z",
+        "type": "auth_failure",
+        "user": "anonymous_user",
+        "desc": "Failed login attempt due to expired session token during watchlist access."
+    },
+    {
+        "id": "004",
+        "timestamp": "2026-07-06T20:38:19Z",
+        "type": "error_500",
+        "user": "cinephile_dan",
+        "desc": "Internal server error encountered while rendering the comment section for 'The Matrix'."
+    },
+    {
+        "id": "005",
+        "timestamp": "2026-07-06T20:41:55Z",
+        "type": "validation_error",
+        "user": "elena_rodriguez",
+        "desc": "Review submission rejected; character count exceeded the maximum limit of 5,000 characters."
+    },
+    {
+        "id": "006",
+        "timestamp": "2026-07-06T20:44:12Z",
+        "type": "network_dropped",
+        "user": "marcus_k",
+        "desc": "Video stream interrupted during trailer playback due to client-side network disconnection."
+    },
+    {
+        "id": "007",
+        "timestamp": "2026-07-06T20:47:30Z",
+        "type": "rate_limit",
+        "user": "moviefan_99",
+        "desc": "API request blocked; exceeded the threshold of 60 profile updates per minute."
+    },
+    {
+        "id": "008",
+        "timestamp": "2026-07-06T20:50:08Z",
+        "type": "cors_error",
+        "user": "alex_g",
+        "desc": "Cross-Origin Resource Sharing (CORS) policy blocked third-party avatar image upload."
+    },
+    {
+        "id": "009",
+        "timestamp": "2026-07-06T20:52:14Z",
+        "type": "error_403",
+        "user": "guest_user_7",
+        "desc": "Access denied while attempting to view restricted administrator analytics panel."
+    },
+    {
+        "id": "010",
+        "timestamp": "2026-07-06T20:55:00Z",
+        "type": "write_conflict",
+        "user": "cinephile_dan",
+        "desc": "Optimistic locking failure; concurrent update detected while saving edits to 'Interstellar' review."
+    }
+]

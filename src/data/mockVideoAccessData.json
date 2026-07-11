@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "timestamp": "2026-07-06T18:15:22Z",
+        "type": "trailer_view",
+        "user": "cinephile_dan",
+        "desc": "Watched the full length trailer for 'Interstellar'."
+    },
+    {
+        "id": "002",
+        "timestamp": "2026-07-06T18:24:05Z",
+        "type": "clip_view",
+        "user": "sarah_m_99",
+        "desc": "Viewed the 'Why So Serious' clip from 'The Dark Knight'."
+    },
+    {
+        "id": "003",
+        "timestamp": "2026-07-06T18:40:11Z",
+        "type": "interview_view",
+        "user": "alex_g",
+        "desc": "Streamed a 15-minute director interview with Christopher Nolan regarding 'Inception'."
+    },
+    {
+        "id": "004",
+        "timestamp": "2026-07-06T18:55:30Z",
+        "type": "trailer_view",
+        "user": "elena_rodriguez",
+        "desc": "Watched the official teaser trailer for 'Spirited Away'."
+    },
+    {
+        "id": "005",
+        "timestamp": "2026-07-06T19:10:45Z",
+        "type": "bts_view",
+        "user": "marcus_k",
+        "desc": "Accessed the behind-the-scenes featurette for 'The Matrix'."
+    },
+    {
+        "id": "006",
+        "timestamp": "2026-07-06T19:33:18Z",
+        "type": "clip_view",
+        "user": "moviefan_99",
+        "desc": "Viewed the dance sequence clip from 'Pulp Fiction'."
+    },
+    {
+        "id": "007",
+        "timestamp": "2026-07-06T19:48:02Z",
+        "type": "trailer_view",
+        "user": "cinephile_dan",
+        "desc": "Watched the 4K restoration trailer for 'The Godfather'."
+    },
+    {
+        "id": "008",
+        "timestamp": "2026-07-06T20:02:14Z",
+        "type": "interview_view",
+        "user": "sarah_m_99",
+        "desc": "Streamed a cast interview panel featuring the actors of 'Goodfellas'."
+    },
+    {
+        "id": "009",
+        "timestamp": "2026-07-06T20:15:55Z",
+        "type": "bts_view",
+        "user": "alex_g",
+        "desc": "Accessed the 'Making of the Score' video overlay for 'Interstellar'."
+    },
+    {
+        "id": "010",
+        "timestamp": "2026-07-06T20:25:00Z",
+        "type": "trailer_view",
+        "user": "elena_rodriguez",
+        "desc": "Watched the theatrical re-release trailer for 'The Shawshank Redemption'."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "timestamp": "2026-07-06T14:22:01Z",
+        "type": "rating",
+        "user": "alex_g",
+        "desc": "Rated 'The Dark Knight' 5 out of 5 stars."
+    },
+    {
+        "id": "002",
+        "timestamp": "2026-07-06T14:35:12Z",
+        "type": "review",
+        "user": "sarah_m_99",
+        "desc": "Published a 200-word review for 'Spirited Away'."
+    },
+    {
+        "id": "003",
+        "timestamp": "2026-07-06T14:40:55Z",
+        "type": "watchlist_add",
+        "user": "moviefan_99",
+        "desc": "Added 'Inception' to their public watchlist."
+    },
+    {
+        "id": "004",
+        "timestamp": "2026-07-06T15:02:18Z",
+        "type": "comment",
+        "user": "cinephile_dan",
+        "desc": "Commented on user 'sarah_m_99's review of 'Spirited Away'."
+    },
+    {
+        "id": "005",
+        "timestamp": "2026-07-06T15:15:30Z",
+        "type": "rating",
+        "user": "elena_rodriguez",
+        "desc": "Rated 'The Godfather' 5 out of 5 stars."
+    },
+    {
+        "id": "006",
+        "timestamp": "2026-07-06T15:42:05Z",
+        "type": "like",
+        "user": "alex_g",
+        "desc": "Liked a review written by 'cinephile_dan'."
+    },
+    {
+        "id": "007",
+        "timestamp": "2026-07-06T16:05:11Z",
+        "type": "rating",
+        "user": "marcus_k",
+        "desc": "Rated 'Pulp Fiction' 4 out of 5 stars."
+    },
+    {
+        "id": "008",
+        "timestamp": "2026-07-06T16:12:44Z",
+        "type": "watchlist_remove",
+        "user": "sarah_m_99",
+        "desc": "Removed 'Goodfellas' from their watchlist after watching it."
+    },
+    {
+        "id": "009",
+        "timestamp": "2026-07-06T16:30:22Z",
+        "type": "follow",
+        "user": "moviefan_99",
+        "desc": "Started following user 'elena_rodriguez'."
+    },
+    {
+        "id": "010",
+        "timestamp": "2026-07-06T16:55:00Z",
+        "type": "review",
+        "user": "cinephile_dan",
+        "desc": "Published a detailed critique of 'Interstellar'."
+    }
+]
